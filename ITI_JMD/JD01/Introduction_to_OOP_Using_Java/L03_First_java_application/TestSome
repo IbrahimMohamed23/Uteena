@@ -1,5 +1,5 @@
 package some; // When you add this, an error occurs in Run (not in compilation):
-                 Error: Could not find or load main class TestSome
+              // Error: Could not find or load main class TestSome
 
 class TestSome
 {
